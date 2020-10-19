@@ -6,6 +6,10 @@ Lab7 Repository consists of a Makefile that prints "Hello World" on the first li
 
 Makefile
 
-``` 
-make 
-```
+``` make ``` OR ```make printLine2 ```
+To execute the Makefile and print both echo commands
+
+
+``` make helloWorld ```
+To execute the Makefile and only print "Hello World" 
+
